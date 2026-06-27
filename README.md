@@ -1,7 +1,5 @@
 
-
-https://github.com/user-attachments/assets/486685fa-8425-4c30-8989-8b417a5baa84
-
+<img width="200" height="113" alt="gif" src="https://github.com/user-attachments/assets/53fb322f-d567-46c2-ad02-43e8b688adf4" />
 
 
 ## What it does
